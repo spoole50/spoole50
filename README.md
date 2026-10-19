@@ -1,6 +1,6 @@
 ## Hi, I'm Shane 👋
 
-I build small, practical tools, mostly around off-grid solar, hardware tinkering, and games. Based in Texas. More at **[spoole.fyi](https://spoole.fyi/)**.
+I build small, practical tools, mostly around off-grid solar, hardware tinkering, and games. More at **[spoole.fyi](https://spoole.fyi/)**.
 
 ### Projects
 
